@@ -1,9 +1,6 @@
 nav_logo_image: /assets/uploads/venture-logo.svg
 logo_text: Venture
 navigation_items:
-  - label: My Services
-    link_url: /#services
-    open_in_new_tab: false
   - label: Contact Me
     link_url: /contact
     open_in_new_tab: false
